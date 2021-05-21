@@ -1,6 +1,6 @@
 # C_Consol_Game_2048
 # 遊戲畫面
-	![header image](./result.png)
+	![header image]("https://github.com/liti2891/C_Consol_Game_2048/blob/main/result.png")
 # 開始遊戲
 	步驟0、計數i=0。
 	步驟1、亂數產生(x,y)座標，x範圍為0~3，y範圍為0~3。
