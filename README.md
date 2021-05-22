@@ -2,6 +2,7 @@
 # 遊戲畫面
 ![Image](https://github.com/liti2891/C_Consol_Game_2048/blob/main/result.png)
 # 開始遊戲
+> Start()
 	步驟0、計數i=0。
 	步驟1、亂數產生(x,y)座標，x範圍為0~3，y範圍為0~3。
 	步驟2、處理目前方陣(x,y)數據，先檢查是否為0？
